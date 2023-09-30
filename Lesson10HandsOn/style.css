@@ -1,0 +1,37 @@
+body {
+    padding: 5px;
+    margin: 10px;
+}
+
+.icons {
+    height: 50px;
+    width: auto;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkred;
+    color: white;
+    text-align: center;
+}
+
+#selfie {
+    height: 250px;
+    width: auto;
+}
+
+.icon-large {
+    height: 90px;
+    width: auto;
+}
+
+#techSkills {
+    font-size: large;
+}
+
+#repos {
+    font-size: large;
+}

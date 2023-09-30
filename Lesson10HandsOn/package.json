@@ -1,0 +1,21 @@
+{
+  "name": "lesson10handson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MHolmes83/FEFFinalProject/Lesson10HandsOn"
+  },
+  "author": "Morgaan Holmes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "expresss": "^0.0.0",
+    "jquery": "^3.7.1",
+    "react": "^18.2.0"
+  }
+}
